@@ -1,0 +1,3 @@
+---
+ansibleLint:
+  configFile: "./.ansible-lint.yml"
