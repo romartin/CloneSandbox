@@ -1,2 +1,2 @@
 # Cloned Sandbox
-Cloned Sandbox repo to test the GitHub features.
+Cloned Sandbox repo to test the GitHub features().
